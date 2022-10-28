@@ -278,10 +278,10 @@
 	<string name="premium_three_sub_title">Děkujeme, že jste si vybrali Tasks(Úkoly) Premium</string>
 	<string name="prefs_premium">pref_key_premium</string>
 	<string name="premium_two_sub_title_two">2. Vyberte si předplatné</string>
-	<string name="premium_one_backup_message">Nebojte se o svá data, je to šifrované, to je zálohována a je to bezpečné a zdravé</string>
+	<string name="premium_one_backup_message">Nemusíte se bát o svá data, jsou šifrována, zabezpečena a zálohována</string>
 	<string name="premium_continue">Pokračovat</string>
 	<string name="title_settings_logout">smazat účet</string>
-	<string name="premium_two_information">Pro vaši bezpečnost a pohodlí, Úkoly používá ověřování Google. Kliknutím na tlačítko pro přihlášení.</string>
+	<string name="premium_two_information">Pro vaši bezpečnost a pohodlí, Tasks(Úkoly) používá ověřování Google. Klikněte na tlačítko pro přihlášení.</string>
 	<string name="help_settings_sync_wifi_only">Synchronizace dat na pozadí, když jen na Wi-Fi. To se netýká strhnout k osvěžení</string>
 	<string name="help_settings_sync_on_close">synchronizace dat z cloudu při zavření Úkoly</string>
 	<string name="title_settings_sync_wifi_only">Sync na Wi-Fi pouze</string>
