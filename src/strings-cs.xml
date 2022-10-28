@@ -221,7 +221,7 @@
 	<string name="help_advanced_repeat">Každých</string>
 	<string name="help_settings_show_completed_date">Zobrazit datum a čas dokončení úkolu</string>
 	<string name="help_notification_persistent">Oznámení bude těžší odstranit</string>
-	<string name="help_settings_show_calendar">Zobrazit úkoly v kalendáři.  Poznámka: V tomto zobrazení jsou funkce omezeny</string>
+	<string name="help_settings_show_calendar">Zobrazit úkoly v kalendáři. Poznámka: V tomto zobrazení jsou funkce omezeny</string>
 	<string name="help_minutes">minut</string>
 	<string name="help_settings_enable_reminder">Při vytváření úkolu vždy povolit upozornění.</string>
 	<string name="help_settings_show_list_color">Zobrazit barvu seznamu u každého úkolu (neplatí pro filtrované seznamy)</string>
