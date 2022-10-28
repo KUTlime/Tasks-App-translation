@@ -244,7 +244,7 @@
 	<string name="misc_share_uncompleted">\u25FB</string>
 	<string name="misc_share_completed">\u2714</string>
 	<string name="title_settings_auto_increment_reminder">Automatické připomenutí přírůstku</string>
-	<string name="help_settings_auto_increment_reminder">Povoleno: připomenutí se zvyšuje automaticky, když je oznámení přijatoDisabled: připomenutí se zvyšuje, když je úkol označen jako dokončený</string>
+	<string name="help_settings_auto_increment_reminder">Povoleno: připomenutí se zvyšuje automaticky, když je oznámení přijato Vypnuto: připomenutí se zvyšuje, když je úkol označen jako dokončený</string>
 	<string name="alert_write_success">Data byla úspěšně zapsána do</string>
 	<string name="title_export_csv">Export do souboru CSV</string>
 	<string name="help_export_csv">Uložte data ve formátu hodnot oddělených čárkami (CSV). Bude uložen do adresáře / Stáhnout</string>
