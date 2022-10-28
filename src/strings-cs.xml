@@ -166,7 +166,7 @@
 	<string name="alert_thank_you">Děkuji Vám za Vaši štědrost :)</string>
 	<string name="alert_delete_ok">ANO, SMAZAT</string>
 	<string name="alert_delete_title">Smazat seznam</string>
-	<string name="alert_delete_message">Tímto se odstraní také všechny úkoly v tomto seznamu. Jste si jisti?</string>
+	<string name="alert_delete_message">Tímto se odstraní také všechny úkoly v tomto seznamu. Jste si jistí?</string>
 	<string name="alert_send_feedback_title">Jak Vám můžeme pomoci?</string>
 	<string name="alert_whats_new_title">Co je nového</string>
 	<string name="alert_restore_error_number_format">Neshoda formátů čísel</string>
