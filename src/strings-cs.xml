@@ -300,7 +300,7 @@
 	<string name="premium_one_sharing_message">Chcete se podělit o nákupní seznam s partnerem? Sdílený seznam je pro vás</string>
 	<string name="premium_one_sub_title">Organizovat jako profík s</string>
 	<string name="help_settings_sync_on_open">synchronizace dat z cloudu při otevření aplikace</string>
-	<string name="premium_one_information">Úkoly vždy uvedeny všechny funkce zdarma bez reklamy. Že se nemění, ale bohužel servery stojí peníze, takže potřebujeme nějakou pomoc, pokud byste chtěli použít následující:</string>
+	<string name="premium_one_information">V aplikaci Tasks(Úkoly) byly vždy všechny funkce zdarma a bez reklam. To se nemění, ale bohužel servery stojí peníze, takže potřebujeme nějakou pomoc, pokud byste chtěli použít následující:</string>
 	<string name="help_settings_user_deleted">Účet a data smazána</string>
 	<string name="help_settings_user_deleted_error">Chyba při pokusu o smazání účtu</string>
 	<string name="action_upgrade_to_premium">Upgrade na Premium</string>
