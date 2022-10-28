@@ -275,7 +275,7 @@
 	<string name="alert_retry_title">Opakovat?</string>
 	<string name="premium_three_information">Pojďme zálohovat všechna data do cloudu. Je to šifrováné a bezpečné</string>
 	<string name="premium_one_web_app_title">Web App</string>
-	<string name="premium_three_sub_title">Děkujeme, že jste si vybrali Úkoly Premium</string>
+	<string name="premium_three_sub_title">Děkujeme, že jste si vybrali Tasks(Úkoly) Premium</string>
 	<string name="prefs_premium">pref_key_premium</string>
 	<string name="premium_two_sub_title_two">2. Vyberte si předplatné</string>
 	<string name="premium_one_backup_message">Nebojte se o svá data, je to šifrované, to je zálohována a je to bezpečné a zdravé</string>
