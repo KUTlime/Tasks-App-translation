@@ -273,7 +273,7 @@
 	<string name="alert_delete_user_title">Smazat účet a všechna data?</string>
 	<string name="premium_three_sync_data_information">Stačí kliknout na tlačítko synchronizovat a počkat na dokončení. V závislosti na rychlosti vašeho datového připojení a množství dat, to může trvat až jednu minutu, takže buďte trpěliví. Všechny následné synchronizace jsou inkrementální a budou tak rychlejší.</string>
 	<string name="alert_retry_title">Opakovat?</string>
-	<string name="premium_three_information">Pojďme všechna data zálohována do cloudu. To je šifrována, je to bezpečné a je to bezpečné a zdravé</string>
+	<string name="premium_three_information">Pojďme zálohovat všechna data do cloudu. Je to šifrováné a bezpečné</string>
 	<string name="premium_one_web_app_title">Web App</string>
 	<string name="premium_three_sub_title">Děkujeme, že jste si vybrali Úkoly Premium</string>
 	<string name="prefs_premium">pref_key_premium</string>
