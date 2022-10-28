@@ -125,13 +125,13 @@
 	<string name="alert_undo">ZPĚT</string>
 	<string name="alert_delete">SMAZAT</string>
 	<string name="alert_about_title">O aplikaci</string>
-	<string name="alert_about_message">Tasks je jednoduchá aplikace na správu úkolů, která upřednostňuje praktičnost a použitelnost. Organizujte svůj zaneprázdněný život pomocí Tasks.</string>
+	<string name="alert_about_message">Tasks (Úkoly) je jednoduchá aplikace na správu úkolů, která upřednostňuje praktičnost a použitelnost. Organizujte svůj zaneprázdněný život pomocí Tasks.</string>
 	<string name="alert_rate_main_title">⭐ Podpořte nás</string>
 	<string name="alert_rate_main_message">Je naše aplikace užitečná? Pomáháme vám s organizací času?</string>
 	<string name="alert_rate_main_ok">ANO</string>
 	<string name="alert_rate_main_cancel">NE</string>
 	<string name="alert_rate_positive_title">Skvělé!</string>
-	<string name="alert_rate_positive_message">Aplikace Tasks se stále vyvíjí. Pokud ji milujete, ohodnoťte nás (opravdu nám to pomůže)!</string>
+	<string name="alert_rate_positive_message">Aplikace Tasks (Úkoly) se stále vyvíjí. Pokud ji milujete, ohodnoťte nás (opravdu nám to pomůže)!</string>
 	<string name="alert_rate_positive_ok">ANO, MILUJU JI</string>
 	<string name="alert_rate_positive_cancel">NE, DÍKY</string>
 	<string name="alert_rate_negative_title">Můžete nám prosím říci proč?</string>
