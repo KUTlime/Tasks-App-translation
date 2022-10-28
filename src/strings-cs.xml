@@ -297,7 +297,7 @@
 	<string name="alert_retry_message">Vypadá to, že máte neúplné nákupu. Nebudete muset platit znovu. Chtěli byste se opakovat?</string>
 	<string name="alert_retry_ok">ANO, OPAKOVAT</string>
 	<string name="premium_one_sharing_title">sdílení seznamu</string>
-	<string name="premium_one_sharing_message">Chcete se podělit o nákupní seznam s partnerem? Sdílení seznam je pro vás</string>
+	<string name="premium_one_sharing_message">Chcete se podělit o nákupní seznam s partnerem? Sdílený seznam je pro vás</string>
 	<string name="premium_one_sub_title">Organizovat jako profík s</string>
 	<string name="help_settings_sync_on_open">synchronizace dat z cloudu při otevření Úkoly</string>
 	<string name="premium_one_information">Úkoly vždy uvedeny všechny funkce zdarma bez reklamy. Že se nemění, ale bohužel servery stojí peníze, takže potřebujeme nějakou pomoc, pokud byste chtěli použít následující:</string>
