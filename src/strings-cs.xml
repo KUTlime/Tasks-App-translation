@@ -61,7 +61,7 @@
 	<string name="title_app_settings">Nastavení aplikace</string>
 	<string name="title_list_settings">Nastavení seznamu úkolů</string>
 	<string name="title_settings_quick_add">Zobrazit rychlé vytvoření úkolu</string>
-	<string name="title_settings_auto_link">Automaticky v textu vytvářet odkazy</string>
+	<string name="title_settings_auto_link">Automaticky vytvářet odkazy v textu</string>
 	<string name="title_highlight">Zvýraznění</string>
 	<string name="title_settings_sort_completed">Přesunout dokončené úkoly</string>
 	<string name="title_setting_backup">Zálohování</string>
