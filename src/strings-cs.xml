@@ -271,7 +271,7 @@
 	<string name="premium_one_device_to_device_sync_title">Zařízení k synchronizaci zařízení</string>
 	<string name="alert_sync_complete">Vaše první synchronizace byla dokončena, budou data automaticky synchronizovány na pozadí při každém zavření aplikace</string>
 	<string name="alert_delete_user_title">Smazat účet a všechna data?</string>
-	<string name="premium_three_sync_data_information">Stačí kliknout na synchronizaci nyní tlačítko a čekat na proces dokončit. V závislosti na rychlosti vašeho datového připojení a množství dat, to může trvat až jednu minutu, takže buďte trpěliví. Všechny následné synchronizace jsou inkrementální a budou tak rychlejší.</string>
+	<string name="premium_three_sync_data_information">Stačí kliknout na tlačítko synchronizovat a počkat na dokončení. V závislosti na rychlosti vašeho datového připojení a množství dat, to může trvat až jednu minutu, takže buďte trpěliví. Všechny následné synchronizace jsou inkrementální a budou tak rychlejší.</string>
 	<string name="alert_retry_title">Opakovat?</string>
 	<string name="premium_three_information">Pojďme všechna data zálohována do cloudu. To je šifrována, je to bezpečné a je to bezpečné a zdravé</string>
 	<string name="premium_one_web_app_title">Web App</string>
