@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="repeat_array">
+        <item>Does not repeat</item>
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+        <item>Yearly</item>
+        <item>Specific days of the week</item>
+        <item>Advanced</item>
+    </string-array>
+
+    <string-array name="sort_array">
+        <item>User draggable</item>
+        <item>Priority</item>
+        <item>Alphabetical (A to Z)</item>
+        <item>Alphabetical (Z to A)</item>
+        <item>Created (newest first)</item>
+        <item>Created (oldest first)</item>
+        <item>Modified (newest first)</item>
+        <item>Modified (oldest first)</item>
+        <item>Due (newest first)</item>
+        <item>Due (oldest first)</item>
+        <item>Highlighted</item>
+        <item>Completed (newest first)</item>
+        <item>Completed (oldest first)</item>
+    </string-array>
+
+    <integer-array name="sort_array_ref">
+        <item>0</item>
+        <item>10</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>8</item>
+        <item>9</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+    </integer-array>
+
+    <string-array name="sort_array_all_tasks">
+        <item>Task List (grouped)</item>
+        <item>User draggable</item>
+        <item>Priority</item>
+        <item>Alphabetical (A to Z)</item>
+        <item>Alphabetical (Z to A)</item>
+        <item>Created (newest first)</item>
+        <item>Created (oldest first)</item>
+        <item>Modified (newest first)</item>
+        <item>Modified (oldest first)</item>
+        <item>Due (newest first)</item>
+        <item>Due (oldest first)</item>
+        <item>Highlighted</item>
+        <item>Completed (newest first)</item>
+        <item>Completed (oldest first)</item>
+    </string-array>
+
+    <integer-array name="sort_array_all_tasks_ref">
+        <item>7</item>
+        <item>0</item>
+        <item>10</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>8</item>
+        <item>9</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+    </integer-array>
+
+    <string-array name="tag_sort_array">
+        <item>Alphabetical (A to Z)</item>
+        <item>Alphabetical (Z to A)</item>
+        <item>Created (newest first)</item>
+        <item>Created (oldest first)</item>
+    </string-array>
+
+    <integer-array name="tag_sort_array_ref">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+
+    <string-array name="user_priority">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+        <item>None</item>
+    </string-array>
+
+    <integer-array name="user_priority_ref">
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </integer-array>
+
+    <string-array name="user_priority_values">
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+
+    <integer-array name="snooze_duration_minutes">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+    </integer-array>
+
+    <string-array name="sub_task_list_heading_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="sub_task_list_heading_entries">
+        <item>None</item>
+        <item>Completed / Total</item>
+        <item>Percentage completed</item>
+        <item>Overdue</item>
+        <item>Total</item>
+        <item>Uncompleted</item>
+    </string-array>
+
+    <string-array name="insert_new_tasks_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="insert_new_tasks_entries">
+        <item>Top</item>
+        <item>Bottom</item>
+    </string-array>
+
+    <string-array name="notes_view_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="notes_view_entries">
+        <item>All</item>
+        <item>2 Lines</item>
+        <item>1 Line</item>
+        <item>None</item>
+    </string-array>
+
+    <string-array name="feedback_options">
+        <item>Online help</item>
+        <item>Request a feature</item>
+        <item>Report an issue</item>
+        <item>Report a translation error</item>
+        <item>I love the app!</item>
+    </string-array>
+
+    <string-array name="list_view_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="list_view_mode_entries">
+        <item>Comfortable</item>
+        <item>Cosy</item>
+        <item>Compact</item>
+    </string-array>
+
+    <string-array name="reminder_type_entries">
+        <item>Notification</item>
+        <item>Alarm</item>
+        <item>None</item>
+    </string-array>
+
+    <string-array name="reminder_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="repeat_until_entries">
+        <item>Forever</item>
+        <item>Until date</item>
+    </string-array>
+
+    <string-array name="advanced_repeat_type">
+        <item>minutes</item>
+        <item>hours</item>
+        <item>days</item>
+        <item>weeks</item>
+        <item>months</item>
+        <item>years</item>
+    </string-array>
+
+    <integer-array name="advanced_repeat_type_ref">
+        <item>4</item>
+        <item>5</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </integer-array>
+
+    <string-array name="filter_priority">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+        <item>None</item>
+        <item>All</item>
+    </string-array>
+
+    <integer-array name="filter_priority_ref">
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </integer-array>
+
+    <string-array name="filter_highlight">
+        <item>Yes</item>
+        <item>No</item>
+        <item>All</item>
+    </string-array>
+
+    <integer-array name="filter_highlight_ref">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </integer-array>
+
+    <string-array name="filter_complete">
+        <item>Yes</item>
+        <item>No</item>
+        <item>All</item>
+    </string-array>
+
+    <integer-array name="filter_complete_ref">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </integer-array>
+
+    <string-array name="filter_due_days">
+        <item>No date set</item>
+        <item>All</item>
+        <item>Today</item>
+    </string-array>
+
+    <string-array name="reminder_advance_type">
+        <item>Don\'t remind me</item>
+        <item>Remind me when due</item>
+        <item>Remind me in advance</item>
+    </string-array>
+
+    <string-array name="reminder_advance">
+        <item>minutes</item>
+        <item>hours</item>
+        <item>days</item>
+        <item>weeks</item>
+        <item>months</item>
+        <item>years</item>
+    </string-array>
+
+    <string-array name="alarm_duration_values">
+        <item>0</item>
+        <item>4</item>
+        <item>5</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="alarm_duration_entries">
+        <item>Forever</item>
+        <item>15 seconds</item>
+        <item>30 seconds</item>
+        <item>1 minute</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+    </string-array>
+
+    <string-array name="theme_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="theme_entries">
+        <item>Light</item>
+        <item>Dark</item>
+        <item>Black</item>
+    </string-array>
+
+    <string-array name="font_size_entries">
+        <item>Extra small</item>
+        <item>Small</item>
+        <item>Normal</item>
+        <item>Large</item>
+        <item>Extra Large</item>
+    </string-array>
+
+    <string-array name="font_size_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="recurring_task_reset_entries">
+        <item>Reset at midnight</item>
+        <item>Reset immediately</item>
+        <item>Reset on due date</item>
+    </string-array>
+
+    <string-array name="recurring_task_reset_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

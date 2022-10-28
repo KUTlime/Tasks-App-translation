@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="repeat_array">
+		<item>Neopakovat</item>
+		<item>Denně</item>
+		<item>Týdně</item>
+		<item>Měsíčně</item>
+		<item>Ročně</item>
+		<item>Vybrané dny v týdnu</item>
+		<item>Pokročilé</item>
+	</string-array>
+	<string-array name="sort_array">
+		<item>Vlastní řazení</item>
+		<item>Priority</item>
+		<item>Abecedně (od A do Z)</item>
+		<item>Abecedně (od Z do A)</item>
+		<item>Data vytvoření (od nejnovějšího)</item>
+		<item>Data vytvoření (od nejstaršího)</item>
+		<item>Data upravení (od nejnovějšího)</item>
+		<item>Data upravení (od nejstaršího)</item>
+		<item>Data termínu (od nejnovějšího)</item>
+		<item>Data termínu (od nejstaršího)</item>
+		<item>Zvýrazněné</item>
+		<item>Dokončeno (od nejnovějšího)</item>
+		<item>Dokončeno (od nejstaršího)</item>
+	</string-array>
+	<string-array name="sort_array_all_tasks">
+		<item>Seznamů úkolů (seskupené)</item>
+		<item>Vlastní řazení</item>
+		<item>Priority</item>
+		<item>Abecedně (od A do Z)</item>
+		<item>Abecedně (od Z do A)</item>
+		<item>Data vytvoření (od nejnovějšího)</item>
+		<item>Data vytvoření (od nejstaršího)</item>
+		<item>Data upravení (od nejnovějšího)</item>
+		<item>Data upravení (od nejstaršího)</item>
+		<item>Data termínu (od nejnovějšího)</item>
+		<item>Data termínu (od nejstaršího)</item>
+		<item>Zvýrazněné</item>
+		<item>Dokončeno (od nejnovějšího)</item>
+		<item>Dokončeno (od nejstaršího)</item>
+	</string-array>
+	<string-array name="tag_sort_array">
+		<item>Abecedně (od A do Z)</item>
+		<item>Abecedně (od Z do A)</item>
+		<item>Data vytvoření (od nejnovějšího)</item>
+		<item>Data vytvoření (od nejstaršího)</item>
+	</string-array>
+	<string-array name="user_priority">
+		<item>Vysoká</item>
+		<item>Střední</item>
+		<item>Nízká</item>
+		<item>Žádná</item>
+	</string-array>
+	<string-array name="user_priority_values">
+		<item>3</item>
+		<item>2</item>
+		<item>1</item>
+		<item>0</item>
+	</string-array>
+	<string-array name="sub_task_list_heading_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+	</string-array>
+	<string-array name="sub_task_list_heading_entries">
+		<item>Žádné</item>
+		<item>Dokončené / Celkem</item>
+		<item>Procenta dokončených</item>
+		<item>Promeškané</item>
+		<item>Celkem</item>
+		<item>Nedokončené</item>
+	</string-array>
+	<string-array name="insert_new_tasks_values">
+		<item>0</item>
+		<item>1</item>
+	</string-array>
+	<string-array name="insert_new_tasks_entries">
+		<item>Začátek seznamu</item>
+		<item>Konec seznamu</item>
+	</string-array>
+	<string-array name="notes_view_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</string-array>
+	<string-array name="notes_view_entries">
+		<item>Vše</item>
+		<item>2 řádky</item>
+		<item>1 řádek</item>
+		<item>Nezobrazovat</item>
+	</string-array>
+	<string-array name="feedback_options">
+		<item>On-line podpora</item>
+		<item>Požádat o funkci</item>
+		<item>Nahlásit problém</item>
+		<item>Nahlásit chybu překladu</item>
+		<item>Miluji tuhle aplikaci!</item>
+	</string-array>
+	<string-array name="list_view_mode_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+	</string-array>
+	<string-array name="list_view_mode_entries">
+		<item>Komfortní</item>
+		<item>Střední</item>
+		<item>Kompaktní</item>
+	</string-array>
+	<string-array name="reminder_type_entries">
+		<item>Oznámení</item>
+		<item>Budík</item>
+		<item>Žádné</item>
+	</string-array>
+	<string-array name="reminder_type_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+	</string-array>
+	<string-array name="repeat_until_entries">
+		<item>Navždy</item>
+		<item>Do určitého dne</item>
+	</string-array>
+	<string-array name="advanced_repeat_type">
+		<item>minut</item>
+		<item>hodin</item>
+		<item>dní</item>
+		<item>týdnů</item>
+		<item>měsíců</item>
+		<item>roků</item>
+	</string-array>
+	<string-array name="filter_priority">
+		<item>Vysoká</item>
+		<item>Střední</item>
+		<item>Nízká</item>
+		<item>Žádná</item>
+		<item>Vše</item>
+	</string-array>
+	<string-array name="filter_highlight">
+		<item>Ano</item>
+		<item>Ne</item>
+		<item>Vše</item>
+	</string-array>
+	<string-array name="filter_complete">
+		<item>Ano</item>
+		<item>Ne</item>
+		<item>Vše</item>
+	</string-array>
+	<string-array name="filter_due_days">
+		<item>Není nastaveno žádné datum</item>
+		<item>Vše</item>
+		<item>Dnes</item>
+	</string-array>
+	<string-array name="reminder_advance_type">
+		<item>Neupozorňovat</item>
+		<item>Upozornění v termínu</item>
+		<item>Upozornění před termínem</item>
+	</string-array>
+	<string-array name="reminder_advance">
+		<item>minut</item>
+		<item>hodin</item>
+		<item>dnů</item>
+		<item>týdnů</item>
+		<item>měsíců</item>
+		<item>roků</item>
+	</string-array>
+	<string-array name="alarm_duration_values">
+		<item>0</item>
+		<item>4</item>
+		<item>5</item>
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</string-array>
+	<string-array name="alarm_duration_entries">
+		<item>Navždy</item>
+		<item>15 sekund</item>
+		<item>30 sekund</item>
+		<item>1 minuta</item>
+		<item>5 minut</item>
+		<item>10 minut</item>
+	</string-array>
+	<string-array name="theme_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+	</string-array>
+	<string-array name="theme_entries">
+		<item>Světlý</item>
+		<item>Tmavý</item>
+		<item>Černý</item>
+	</string-array>
+	<string-array name="font_size_entries">
+		<item>Extra malý</item>
+		<item>Malý</item>
+		<item>Normální</item>
+		<item>Velký</item>
+		<item>Extra velké</item>
+	</string-array>
+	<string-array name="font_size_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+	</string-array>
+	<string-array name="recurring_task_reset_entries">
+		<item>Resetovat o půlnoci</item>
+		<item>okamžitému resetu</item>
+		<item>Resetovat na splatnosti</item>
+	</string-array>
+	<string-array name="recurring_task_reset_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+	</string-array>
+</resources>
