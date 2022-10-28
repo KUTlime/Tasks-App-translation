@@ -257,7 +257,7 @@
 	<string name="alert_debug_info">Debug Info</string>
 	<string name="help_settings_show_menu_on_open">Při otevření aplikace zobrazí hlavní menu.</string>
 	<string name="title_settings_show_menu_on_open">Zobrazovat hlavní menu při otevírání aplikace</string>
-	<string name="help_settings_sub_tasks_complete_task">Když jsou všechny dílčí úkoly jsou kompletní mateřská úloha bude rovněž označen jako vyřízený</string>
+	<string name="help_settings_sub_tasks_complete_task">Když jsou všechny dílčí úkoly kompletní nadřazená úloha bude rovněž označen jako vyřízená</string>
 	<string name="title_settings_sub_tasks_complete_task">Dokončit všechny dílčí úkoly dokončí úkol</string>
 	<string name="plural_minute">minuta</string>
 	<string name="plural_minutes">minut</string>
