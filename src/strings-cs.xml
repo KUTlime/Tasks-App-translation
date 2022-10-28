@@ -214,7 +214,7 @@
 	<string name="help_highlight">Úkol bude v seznamu zvýrazněný</string>
 	<string name="help_settings_sort_completed">Přesunout dokončené úkoly na konec seznamu</string>
 	<string name="help_settings_backup">Zálohovat data do místního souboru: /Download/tasks_backup.json pro přeposlání e-mailem na jiný telefon</string>
-	<string name="help_settings_restore">Obnovit data ze souboru zálohy: /Download/tasks_backup.json což funguje pouze se zálohou vytvořenou stejnou verzí aplikace. Pokud potřebujete pomoc, napište nám e-mail na tasks.list.app@gmail.com. Obnovení vyžaduje, abyste podpořili vývoj úkolů s jednorázovým darem nebo předplatným prémiem.</string>
+	<string name="help_settings_restore">Obnovit data ze souboru zálohy: /Download/tasks_backup.json což funguje pouze se zálohou vytvořenou stejnou verzí aplikace. Pokud potřebujete pomoc, napište nám e-mail na tasks.list.app@gmail.com. Obnovení vyžaduje, abyste podpořili vývoj úkolů s jednorázovým darem nebo premium předplatným.</string>
 	<string name="help_settings_delete_confirmation">Požadovat potvrzení při odstraňování seznamu úkolů</string>
 	<string name="help_settings_swipe_to_delete">Úkoly lze smazat vodorovným přetažením.</string>
 	<string name="help_settings_keep_screen_on">Displej se nevypne, pokud jste v seznamu úkolů.</string>
