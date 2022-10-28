@@ -196,7 +196,7 @@
 	<string name="alert_move_sub_task_list_warning_title">Pozor, přesouvám!</string>
 	<string name="alert_move_sub_task_list_warning_message">Není možné přesunout poslední podseznam. Seznam úkolů musí mít alespoň jeden podseznam.</string>
 	<string name="alert_syncing">Úkoly se synchronizují&#8230;</string>
-	<string name="alert_sync">Synch</string>
+	<string name="alert_sync">Synchronizace</string>
 	<string name="alert_donate">Láska úkoly? Urychlete vývoj, kupte vývojáři kávu :)</string>
 	<string name="help_no_task_lists_title">Začněte organizovat svůj život</string>
 	<string name="help_no_task_lists_message">Klepněte na tlačítko menu a přidejte svůj první seznam úkolů</string>
