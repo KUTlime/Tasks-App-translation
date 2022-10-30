@@ -329,7 +329,7 @@
 	<string name="title_settings_default_priority">výchozí priorita</string>
 	<string name="plural_pixels">pixely</string>
 	<string name="title_settings_task_padding">Odsazení položky seznamu</string>
-	<string name="alert_contact_support">Kontaktování podpory pro pomoc.</string>
+	<string name="alert_contact_support">Kontaktovat podporu pro pomoc.</string>
 	<string name="alert_premium_support_feature">Tato funkce je k dispozici pro ty, kteří s aktivním předplatným prémie, nebo kteří přispěli podpůrné úkoly tím, že dary. Chcete-li objednat nebo darovat jít do hlavního menu. Děkuji za vaši podporu.</string>
 	<string name="help_duplicate_on_reset">Vést záznamy o svých dokončených opakujících se úkolů. Duplicitní opakující se úkony při označené jako dokončené.</string>
 	<string name="title_recurring_task_reset">Kdy by se opakující úkoly resetovat?</string>
