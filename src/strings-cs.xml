@@ -372,7 +372,7 @@
 	<string name="alert_black_friday_title">Black-friday sleva</string>
 	<string name="title_mute_alarm_on_call">Ztlumit alarm při telefonování</string>
 	<string name="help_settings_mute_alarm_on_call">Zobrazit oznámení namísto alarmu.</string>
-	<string name="help_settings_multi_line_quick_add">Je-li povoleno povolit vstup multifunkčního textu. Po zakázání Použijte klávesu Enter pro ještě rychlejší vstup.</string>
+	<string name="help_settings_multi_line_quick_add">Je-li povoleno, umožňuje vstup víceřádkového textu. Je-li zakázáno, klávesa Enter přidá úkol.</string>
 	<string name="title_settings_multi_line_quick_add">Multi line rychlé přidání</string>
 	<string name="alert_new">NOVÝ</string>
 	<string name="alert_save_and_add">ULOŽIT A PŘIDAT</string>
