@@ -344,12 +344,12 @@
 	<string name="title_tags">Tagy</string>
 	<string name="premium_one_tags_title">Neomezené tagy</string>
 	<string name="title_solid_switch">Pevný</string>
-	<string name="hint_tags">Verze zdarma umožňuje 3 značky. Chcete více? Neomezené tagy dostupné pro uživatele Premium! Upgrade na Premium z hlavního menu.</string>
-	<string name="alert_upgrade_to_premium_message_four_b">⭐ Neomezené značky?</string>
-	<string name="help_tag_not_set">Vybrané žádné značky</string>
+	<string name="hint_tags">Verze zdarma umožňuje 3 štítky. Chcete více? Neomezené tagy dostupné pro uživatele Premium! Upgrade na Premium z hlavního menu.</string>
+	<string name="alert_upgrade_to_premium_message_four_b">⭐ Neomezené štítky?</string>
+	<string name="help_tag_not_set">Žádné štítky nebyly vybrány</string>
 	<string name="title_tag_name">Název štítku</string>
-	<string name="help_no_tags">Žádné značky. Přidejte nové značky z hlavní nabídky.</string>
-	<string name="title_settings_tag_size">Velikost značky</string>
+	<string name="help_no_tags">Žádné štítky. Přidejte nové štítky z hlavní nabídky.</string>
+	<string name="title_settings_tag_size">Velikost štítků</string>
 	<string name="help_settings_battery_optimisation">Povolte spouštění úkolů na pozadí, aby se zobrazovala oznámení a alarmy.</string>
 	<string name="title_battery_optimisation">Mám potíže s připomenutím?</string>
 	<string name="premium_two_yearly_billed">Ročně</string>
