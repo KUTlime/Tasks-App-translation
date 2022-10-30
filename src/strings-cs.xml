@@ -387,7 +387,7 @@
 	<string name="title_list_unlocked">Seznam odemčen</string>
 	<string name="help_list_locked">Tento seznam se nemohou připojit k žádným novým členům.</string>
 	<string name="title_create_link">Vytvořte odkaz na sdílení</string>
-	<string name="title_list_locked">Seznam zamčený</string>
+	<string name="title_list_locked">Seznam uzamčen</string>
 	<string name="help_link_copied">Odkaz zkopírovaný do schránky</string>
 	<string name="action_add_shared_list">Nový sdílený seznam</string>
 	<string name="help_list_unlocked">Nový člen se může připojit pomocí odkazu na pozvání.</string>
