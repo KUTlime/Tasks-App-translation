@@ -379,7 +379,7 @@
 	<string name="help_create_share_link">Klepnutím vygenerujete odkaz na sdílení</string>
 	<string name="title_members">Členové</string>
 	<string name="title_admin">Admin</string>
-	<string name="title_copy_link">Odkaz na sdílení kopírování</string>
+	<string name="title_copy_link">Zkopírovat odkaz do schránky</string>
 	<string name="action_manage_shared_list">Správa seznamu</string>
 	<string name="title_shared_list_name">Název sdíleného seznamu</string>
 	<string name="alert_sync_already_in_progress">Synchronizace již probíhá</string>
