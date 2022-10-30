@@ -368,7 +368,7 @@
 	<string name="alert_backup_nudge">Vypadá to, že jste na nějakou dobu nezálohovali. Proveďte zálohu z nastavení aplikace. Automatické zálohování do cloudu je k dispozici pro Premium uživatele.</string>
 	<string name="hint_add_task_info">Klepnutím přidáte úkol. Zakázat v nastavení aplikace.</string>
 	<string name="premium_two_promo">30% sleva</string>
-	<string name="alert_black_friday_message">⭐ Zvláštní poděkování dostanete 30% slevu na předplatné úkoly. Nabídka končí pondělí. Upgrade na Premium z hlavního menu.</string>
+	<string name="alert_black_friday_message">⭐ Zvláštní poděkování dostanete 30% slevu na Premium předplatné aplikace. Nabídka končí v pondělí. Upgrade na Premium z hlavního menu.</string>
 	<string name="alert_black_friday_title">Černý pátek sleva</string>
 	<string name="title_mute_alarm_on_call">Ztlumit alarm při telefonování</string>
 	<string name="help_settings_mute_alarm_on_call">Zobrazit oznámení namísto alarmu.</string>
