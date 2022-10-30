@@ -311,8 +311,8 @@
 	<string name="alert_error_title">Chyba</string>
 	<string name="premium_one_support_development_title">Podpořte vývoj aplikace</string>
 	<string name="premium_one_support_development_message">Úkoly je nezávisle vyvinutá aplikace a spoléhá na podporu svých úžasných uživatelů.</string>
-	<string name="alert_premium_expired_warning">Váš Úkoly Premium předplatné vypršelo. Můžete se zaregistrovat kdykoliv znovu.</string>
-	<string name="alert_delete_message_filtered">Tím se odstraní filtrovaný seznam, ale vaše data zůstanou v původních seznamech. Jsi si jistá?</string>
+	<string name="alert_premium_expired_warning">Vaše Task(Úkoly) Premium předplatné vypršelo. Můžete se zaregistrovat kdykoliv znovu.</string>
+	<string name="alert_delete_message_filtered">Tím se odstraní filtrovaný seznam, ale vaše data zůstanou v původních seznamech. Jste si jistí?</string>
 	<string name="alert_delete_title_filtered">Delete filtrován seznam</string>
 	<string name="title_widget_settings_move_add">Stisknutým tlačítkem přidat do nadpisu</string>
 	<string name="title_settings_sub_tasks_expand_default">Dílčí úkoly byly rozšířeny</string>
