@@ -293,7 +293,7 @@
 	<string name="title_premium_settings">Nastavení Premium</string>
 	<string name="premium_one_device_to_device_sync_message">Máte tablet i telefon? Upravujte své úkoly na obou</string>
 	<string name="title_premium_help">Premium help</string>
-	<string name="title_settings_sync_on_close">Synchronizace při zavírání aplikace</string>
+	<string name="title_settings_sync_on_close">Synchronizace při zavření aplikace</string>
 	<string name="alert_retry_message">Vypadá to, že máte neúplné nákupu. Nebudete muset platit znovu. Chtěli byste se opakovat?</string>
 	<string name="alert_retry_ok">ANO, OPAKOVAT</string>
 	<string name="premium_one_sharing_title">sdílení seznamu</string>
