@@ -306,7 +306,7 @@
 	<string name="help_settings_user_deleted_error">Chyba při pokusu o smazání účtu</string>
 	<string name="action_upgrade_to_premium">Upgrade na Premium</string>
 	<string name="alert_premium_expired">Premium vypršela</string>
-	<string name="alert_error_updating_subscription">Došlo k chybě při přidávání předplatné. Prosím, napište mi na pomoc.</string>
+	<string name="alert_error_updating_subscription">Došlo k chybě při přidávání předplatné. Prosím, kontaktujte mne kvůli tomuto problému.</string>
 	<string name="alert_error_creating_user">Došlo k chybě při pokusu o vytvoření účtu. Zkontrolujte sítě připojení a zkuste to znovu.</string>
 	<string name="alert_error_title">Chyba</string>
 	<string name="premium_one_support_development_title">Rozvoj podpůrné úlohy</string>
