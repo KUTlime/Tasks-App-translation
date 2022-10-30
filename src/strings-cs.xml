@@ -341,8 +341,8 @@
 	<string name="alert_upgrade_to_premium_message_four">⭐ Chcete podpořit vývoj aplikace?</string>
 	<string name="help_relax_text">Čerstvý seznam, pojďme začít.</string>
 	<string name="title_all_day">Celý den</string>
-	<string name="title_tags">Tagy</string>
-	<string name="premium_one_tags_title">Neomezené tagy</string>
+	<string name="title_tags">Štítky</string>
+	<string name="premium_one_tags_title">Neomezené štítky</string>
 	<string name="title_solid_switch">Pevný</string>
 	<string name="hint_tags">Verze zdarma umožňuje 3 štítky. Chcete více? Neomezené tagy dostupné pro uživatele Premium! Upgrade na Premium z hlavního menu.</string>
 	<string name="alert_upgrade_to_premium_message_four_b">⭐ Neomezené štítky?</string>
