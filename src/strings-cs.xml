@@ -335,7 +335,7 @@
 	<string name="title_recurring_task_reset">Kdy se mají opakující úkoly resetovat?</string>
 	<string name="title_save_recurring_task_history">Uložit historii opakujících se úkolů?</string>
 	<string name="alert_upgrade_to_premium_message_three">⭐ Synchronizovat mezi zařízeními?</string>
-	<string name="alert_upgrade_to_premium_message_two">⭐ Chraňte svá data pomocí automatického zálohování cloud?</string>
+	<string name="alert_upgrade_to_premium_message_two">⭐ Chranit svá data pomocí automatického zálohování do cloud?</string>
 	<string name="alert_upgrade_to_premium_message_one">⭐ byste chtěli upravit své úkoly z vašeho počítače?</string>
 	<string name="alert_upgrade_to_premium_message_five">Chtěli byste se dozvědět více?</string>
 	<string name="alert_upgrade_to_premium_message_four">⭐ Help rozvoj podpůrné úkoly?</string>
