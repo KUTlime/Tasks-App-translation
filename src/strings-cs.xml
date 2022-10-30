@@ -268,7 +268,7 @@
 	<string name="plural_day">den</string>
 	<string name="plural_days">dnů</string>
 	<string name="premium_one_backup_title">Automatické zálohování do cloudu</string>
-	<string name="title_settings_sync_on_open">Synchronizace při otevírání Úkoly</string>
+	<string name="title_settings_sync_on_open">Synchronizace při otevírání aplikace</string>
 	<string name="premium_one_device_to_device_sync_title">Zařízení k synchronizaci zařízení</string>
 	<string name="alert_sync_complete">Vaše první synchronizace byla dokončena, budou data automaticky synchronizovány na pozadí při každém zavření aplikace</string>
 	<string name="alert_delete_user_title">Smazat účet a všechna data?</string>
