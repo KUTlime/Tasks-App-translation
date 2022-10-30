@@ -365,7 +365,7 @@
 	<string name="hint_add_task">Přidat úkol</string>
 	<string name="title_settings_add_from_notification">Přidávejte úkoly z oznamovacího panelu</string>
 	<string name="title_settings_last_sync">Poslední synchronizace</string>
-	<string name="alert_backup_nudge">Vypadá to, že jste na chvíli neučinili data. Proveďte zálohu z nastavení úkolů. Automatické zálohování Cloud je k dispozici pro uživatele Premium.</string>
+	<string name="alert_backup_nudge">Vypadá to, že jste na nějakou dobu nezálohovali. Proveďte zálohu z nastavení aplikace. Automatické zálohování do cloudu je k dispozici pro Premium uživatele.</string>
 	<string name="hint_add_task_info">Klepnutím přidáte úkol. Zakázat nastavení aplikace.</string>
 	<string name="premium_two_promo">30% sleva</string>
 	<string name="alert_black_friday_message">⭐ Zvláštní poděkování dostanete 30% slevu na předplatné úkoly. Nabídka končí pondělí. Upgrade na Premium z hlavního menu.</string>
