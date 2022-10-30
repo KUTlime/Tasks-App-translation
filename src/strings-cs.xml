@@ -390,7 +390,7 @@
 	<string name="title_list_locked">Seznam uzamčen</string>
 	<string name="help_link_copied">Odkaz byl zkopírován do schránky</string>
 	<string name="action_add_shared_list">Nový sdílený seznam</string>
-	<string name="help_list_unlocked">Nový člen se může připojit pomocí odkazu na pozvání.</string>
+	<string name="help_list_unlocked">Nový člen se může připojit pomocí odkazu.</string>
 	<string name="action_default_add_from_list">Výchozí podsestav</string>
 	<string name="title_settings_auto_number_tasks">Úkoly automatického čísla</string>
 	<string name="help_settings_auto_number_sub_tasks">Automaticky očísejte každou dílčí úlohu v seznamu.</string>
