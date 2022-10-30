@@ -392,10 +392,10 @@
 	<string name="action_add_shared_list">Nový sdílený seznam</string>
 	<string name="help_list_unlocked">Nový člen se může připojit pomocí odkazu.</string>
 	<string name="action_default_add_from_list">Výchozí podsestava</string>
-	<string name="title_settings_auto_number_tasks">Úkoly automatického čísla</string>
+	<string name="title_settings_auto_number_tasks">Automatické číslování úkolů</string>
 	<string name="help_settings_auto_number_sub_tasks">Automaticky očísluje každou dílčí úlohu v seznamu.</string>
 	<string name="title_settings_auto_number_sub_tasks">Sub úkoly automatického čísla</string>
-	<string name="help_settings_auto_number_tasks">Automaticky očísejte každý úlohu v seznamu.</string>
+	<string name="help_settings_auto_number_tasks">Automaticky očísluje každý úlohu v seznamu.</string>
 	<string name="misc_tomorrow">Zítra</string>
 	<string name="alert_set">Soubor</string>
 	<string name="action_instagram">Instagram</string>
