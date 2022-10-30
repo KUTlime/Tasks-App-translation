@@ -215,7 +215,8 @@
 	<string name="help_settings_sort_completed">Přesunout dokončené úkoly na konec seznamu</string>
 	<string name="help_settings_backup">Zálohovat data do místního souboru: /Download/tasks_backup.json pro přeposlání e-mailem na jiný telefon</string>
 	<string name="help_settings_restore">Obnovit data ze souboru zálohy: /Download/tasks_backup.json což funguje pouze se zálohou vytvořenou stejnou verzí aplikace. Pokud potřebujete pomoc, napište nám e-mail na tasks.list.app@gmail.com. Obnovení vyžaduje, abyste podpořili vývoj úkolů s jednorázovým darem nebo premium předplatným.</string>
-	<string name="help_settings_delete_confirmation">Požadovat potvrzení při odstraňování seznamu úkolů</string>
+	<string name="help_settings_delete_confirmation">Požadovat potvrzení při 
+	 seznamu úkolů</string>
 	<string name="help_settings_swipe_to_delete">Úkoly lze smazat vodorovným přetažením.</string>
 	<string name="help_settings_keep_screen_on">Displej se nevypne, pokud jste v seznamu úkolů.</string>
 	<string name="help_advanced_repeat">Každých</string>
@@ -247,7 +248,7 @@
 	<string name="help_settings_auto_increment_reminder">Povoleno: připomenutí se zvyšuje automaticky, když je oznámení přijato Vypnuto: připomenutí se zvyšuje, když je úkol označen jako dokončený</string>
 	<string name="alert_write_success">Data byla úspěšně zapsána do</string>
 	<string name="title_export_csv">Export do souboru CSV</string>
-	<string name="help_export_csv">Uložte data ve formátu hodnot oddělených čárkami (CSV). Bude uložen do adresáře / Stáhnout</string>
+	<string name="help_export_csv">Uložte data ve formátu hodnot oddělených čárkami (CSV). Bude uložen do adresáře /Download</string>
 	<string name="notification_dismiss_action_help">PROPUSTIT</string>
 	<string name="alert_days_of_week_warning_title">Volba chyby</string>
 	<string name="title_settings_show_menu_on_back">Zobrazovat hlavní menu, když zpět stisknutí</string>
