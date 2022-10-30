@@ -361,7 +361,7 @@
 	<string name="premium_two_most_popular">Nejpopulárnější</string>
 	<string name="help_list_not_found">Klepnutím vyberte seznam.</string>
 	<string name="help_settings_sync">Synchronizovat data s cloudem.</string>
-	<string name="help_settings_add_from_notification">Vytvořte úkoly přímo z trvalého oznámení. Snadnější a rychlejší.</string>
+	<string name="help_settings_add_from_notification">Vytvořte úkoly přímo z oznámení. Snodno a rychle.</string>
 	<string name="hint_add_task">Přidat úkol</string>
 	<string name="title_settings_add_from_notification">Přidejte úkoly z oznamovacího panelu</string>
 	<string name="title_settings_last_sync">Poslední synchronizace</string>
