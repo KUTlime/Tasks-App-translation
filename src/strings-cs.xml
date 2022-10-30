@@ -388,7 +388,7 @@
 	<string name="help_list_locked">Tento seznam se nemohou připojit k žádným novým členům.</string>
 	<string name="title_create_link">Vytvořte odkaz na sdílení</string>
 	<string name="title_list_locked">Seznam uzamčen</string>
-	<string name="help_link_copied">Odkaz zkopírovaný do schránky</string>
+	<string name="help_link_copied">Odkaz byl zkopírován do schránky</string>
 	<string name="action_add_shared_list">Nový sdílený seznam</string>
 	<string name="help_list_unlocked">Nový člen se může připojit pomocí odkazu na pozvání.</string>
 	<string name="action_default_add_from_list">Výchozí podsestav</string>
