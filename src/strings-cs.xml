@@ -350,13 +350,13 @@
 	<string name="title_tag_name">Název štítku</string>
 	<string name="help_no_tags">Žádné štítky. Přidejte nové štítky z hlavní nabídky.</string>
 	<string name="title_settings_tag_size">Velikost štítků</string>
-	<string name="help_settings_battery_optimisation">Povolte spouštění úkolů na pozadí, aby se zobrazovala oznámení a alarmy.</string>
+	<string name="help_settings_battery_optimisation">Povolte spuštění úkolů na pozadí, aby se zobrazovala oznámení a alarmy.</string>
 	<string name="title_battery_optimisation">Máte potíže s připomenutím?</string>
 	<string name="premium_two_yearly_billed">Ročně</string>
 	<string name="premium_two_monthly_billed">Účtován měsíčně</string>
 	<string name="premium_two_lifetime_billed">Účtován jednou</string>
 	<string name="premium_two_yearly_title">Roční</string>
-	<string name="premium_two_lifetime_title">Život</string>
+	<string name="premium_two_lifetime_title">Na věky věků</string>
 	<string name="premium_two_monthly_title">Měsíční</string>
 	<string name="premium_two_most_popular">Nejpopulárnější</string>
 	<string name="help_list_not_found">Klepnutím vyberte seznam.</string>
