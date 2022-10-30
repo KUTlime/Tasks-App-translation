@@ -407,19 +407,19 @@
 	<string name="mics_steps_to_reproduce">Kroky k reprodukci problému:</string>
 	<plurals name="misc_minute">
 		<item quantity="one">%d minuta</item>
-		<item quantity="few">%d minut</item>
+		<item quantity="few">%d minuty</item>
 		<item quantity="other">%d minut</item>
 		<item quantity="many">%d minut</item>
 	</plurals>
 	<plurals name="misc_hour">
 		<item quantity="one">%d hodina</item>
-		<item quantity="few">%d hodin</item>
+		<item quantity="few">%d hodiny</item>
 		<item quantity="other">%d hodin</item>
 		<item quantity="many">%d hodin</item>
 	</plurals>
 	<plurals name="misc_day">
 		<item quantity="one">%d den</item>
-		<item quantity="few">%d dnů</item>
+		<item quantity="few">%d dny</item>
 		<item quantity="other">%d dnů</item>
 		<item quantity="many">%d dnů</item>
 	</plurals>
