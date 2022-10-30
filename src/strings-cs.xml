@@ -384,7 +384,7 @@
 	<string name="title_shared_list_name">Název sdíleného seznamu</string>
 	<string name="alert_sync_already_in_progress">Synchronizace již probíhá</string>
 	<string name="help_cannot_create_share_link">Nelze vygenerovat pozvánku</string>
-	<string name="title_list_unlocked">Seznam odemčený</string>
+	<string name="title_list_unlocked">Seznam odemčen</string>
 	<string name="help_list_locked">Tento seznam se nemohou připojit k žádným novým členům.</string>
 	<string name="title_create_link">Vytvořte odkaz na sdílení</string>
 	<string name="title_list_locked">Seznam zamčený</string>
