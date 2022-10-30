@@ -182,7 +182,7 @@
 	<string name="alert_reminder_warning_message">Nastavení data v minulosti nezobrazí upozornění</string>
 	<string name="alert_reminder_added">Upozornění v:</string>
 	<string name="alert_task_modified_title">Úkol upraven</string>
-	<string name="alert_task_modified">Udělali jste změny. Chcete je uložit?</string>
+	<string name="alert_task_modified">Provedli jste změny. Chcete je uložit?</string>
 	<string name="alert_list_name_required">Vyžadován název seznamu</string>
 	<string name="alert_due_days_message">Kolik dní dopředu si přejete zobrazit?</string>
 	<string name="alert_include_overdue_message">Promeškané úkoly dnešního dne jsou vždy zahrnuty</string>
