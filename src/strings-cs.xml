@@ -285,7 +285,7 @@
 	<string name="premium_two_information">Pro vaši bezpečnost a pohodlí, Tasks(Úkoly) používá ověřování Google. Klikněte na tlačítko pro přihlášení.</string>
 	<string name="help_settings_sync_wifi_only">Synchronizace dat na pozadí, pouze na Wi-Fi. Netýká se se gesta přetažení dolů</string>
 	<string name="help_settings_sync_on_close">synchronizace dat z cloudu při zavření aplikace</string>
-	<string name="title_settings_sync_wifi_only">Sync pouze na Wi-Fi</string>
+	<string name="title_settings_sync_wifi_only">Synchronizace pouze na Wi-Fi</string>
 	<string name="help_settings_logout">Smazání účtu je trvalé. Všechna Vaše data budou odstraněna z cloudu a nebudete moci je získat zpět. Poznámka: Tato operace neruší Premium předplatné, to musí být zrušeno v Obchodě Play.</string>
 	<string name="premium_three_sync_now">synchronizovat nyní</string>
 	<string name="premium_two_sub_title">1. Přihlaste se k účtu Google</string>
