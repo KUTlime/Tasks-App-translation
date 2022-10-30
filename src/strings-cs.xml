@@ -251,8 +251,8 @@
 	<string name="help_export_csv">Uložte data ve formátu hodnot oddělených čárkami (CSV). Bude uložen do adresáře /Download</string>
 	<string name="notification_dismiss_action_help">ODMÍTNOUT</string>
 	<string name="alert_days_of_week_warning_title">Volba chyby</string>
-	<string name="title_settings_show_menu_on_back">Zobrazovat hlavní menu, když zpět stisknutí</string>
-	<string name="help_settings_show_menu_on_back">Po stisknutí tlačítka zpět zobrazení menu místo ukončení aplikace.</string>
+	<string name="title_settings_show_menu_on_back">Zobrazovat hlavní menu po stisknutí Zpět</string>
+	<string name="help_settings_show_menu_on_back">Po stisknutí tlačítka Zpět zobrazit menu místo ukončení aplikace.</string>
 	<string name="title_summary_notification">oznámení Shrnutí</string>
 	<string name="alert_days_of_week_warning_message">Je nutné vybrat alespoň jeden den.</string>
 	<string name="alert_debug_info">Debug Info</string>
