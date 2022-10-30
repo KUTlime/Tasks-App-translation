@@ -324,7 +324,7 @@
 	<string name="help_settings_strikethrough_completed">Přeškrtnout název úkolu a poznámky při dokončení úkolu</string>
 	<string name="title_settings_strikethrough_completed">Přeškrtnutí dokončených úkolů</string>
 	<string name="title_settings_account">Účet</string>
-	<string name="premium_one_web_app_message">Kéž bys mohl upravit své úkoly na počítači? Teď můžeš :)</string>
+	<string name="premium_one_web_app_message">Rádi byste upravovali své úkoly na počítači? Teď už můžete :)</string>
 	<string name="premium_upgrade">K dispozici pro uživatele Premium. Stačí přejít z hlavního menu.</string>
 	<string name="title_settings_default_priority">výchozí priorita</string>
 	<string name="plural_pixels">pixely</string>
